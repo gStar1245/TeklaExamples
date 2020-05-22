@@ -1,0 +1,8 @@
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\FormPlugin\bin\Debug\FormPlugin.dll
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\FormPlugin\bin\Debug\FormPlugin.pdb
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\ObjDir\2018\FormPlugin\FormPlugin.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\ObjDir\2018\FormPlugin\FormPlugin.MainForm.resources
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\ObjDir\2018\FormPlugin\FormPlugin.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\ObjDir\2018\FormPlugin\FormPlugin.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\ObjDir\2018\FormPlugin\FormPlugin.dll
+D:\오금성\103.Tekla_C#\Examples\FormPlugin\ObjDir\2018\FormPlugin\FormPlugin.pdb

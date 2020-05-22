@@ -1,0 +1,7 @@
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\ObjDir\2018\FlangeBrace\FlangeBrace.FlangeBraceForm.resources
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\ObjDir\2018\FlangeBrace\FlangeBrace.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\ObjDir\2018\FlangeBrace\FlangeBrace.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\FlangBrace\bin\Debug\FlangeBrace.dll
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\FlangBrace\bin\Debug\FlangeBrace.pdb
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\ObjDir\2018\FlangeBrace\FlangeBrace.dll
+D:\오금성\103.Tekla_C#\Examples\FlangBrace\ObjDir\2018\FlangeBrace\FlangeBrace.pdb

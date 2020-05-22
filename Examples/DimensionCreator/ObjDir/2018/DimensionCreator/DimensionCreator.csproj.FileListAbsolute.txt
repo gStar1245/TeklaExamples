@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\DimensionCreator\bin\Debug\DimensionCreator.exe.config
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\DimensionCreator\bin\Debug\DimensionCreator.exe
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\DimensionCreator\bin\Debug\DimensionCreator.pdb
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.exe
+D:\오금성\103.Tekla_C#\Examples\DimensionCreator\ObjDir\2018\DimensionCreator\DimensionCreator.pdb

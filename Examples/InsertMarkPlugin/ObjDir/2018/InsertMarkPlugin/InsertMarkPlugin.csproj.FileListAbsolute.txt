@@ -1,0 +1,7 @@
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\InsertMarkPlugin\bin\Debug\InsertMarkPlugin.dll
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\InsertMarkPlugin\bin\Debug\InsertMarkPlugin.pdb
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\ObjDir\2018\InsertMarkPlugin\InsertMarkPlugin.InsertMarkPluginForm.resources
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\ObjDir\2018\InsertMarkPlugin\InsertMarkPlugin.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\ObjDir\2018\InsertMarkPlugin\InsertMarkPlugin.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\ObjDir\2018\InsertMarkPlugin\InsertMarkPlugin.dll
+D:\오금성\103.Tekla_C#\Examples\InsertMarkPlugin\ObjDir\2018\InsertMarkPlugin\InsertMarkPlugin.pdb

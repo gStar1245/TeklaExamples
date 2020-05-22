@@ -1,0 +1,8 @@
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\CustomProperties\bin\Debug\CustomProperties.dll
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\CustomProperties\bin\Debug\CustomProperties.pdb
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\CustomProperties\bin\Debug\Tekla.Structures.CustomPropertyPlugin.dll
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\ObjDir\2018\CustomProperties\CustomProperties.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\ObjDir\2018\CustomProperties\CustomProperties.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\ObjDir\2018\CustomProperties\CustomProperties.csproj.CopyComplete
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\ObjDir\2018\CustomProperties\CustomProperties.dll
+D:\오금성\103.Tekla_C#\Examples\CustomProperties\ObjDir\2018\CustomProperties\CustomProperties.pdb

@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\FromDrawingToModel\bin\Debug\FromDrawingToModel.exe.config
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\FromDrawingToModel\bin\Debug\FromDrawingToModel.exe
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\FromDrawingToModel\bin\Debug\FromDrawingToModel.pdb
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.exe
+D:\오금성\103.Tekla_C#\Examples\FromDrawingToModel\ObjDir\2018\FromDrawingToModel\FromDrawingToModel.pdb

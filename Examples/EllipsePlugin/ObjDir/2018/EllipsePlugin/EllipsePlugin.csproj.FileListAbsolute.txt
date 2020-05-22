@@ -1,0 +1,8 @@
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\EllipsePlugin\bin\Debug\EllipsePlugin.dll
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\EllipsePlugin\bin\Debug\EllipsePlugin.pdb
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\ObjDir\2018\EllipsePlugin\EllipsePlugin.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\ObjDir\2018\EllipsePlugin\EllipsePlugin.EllipsePluginForm.resources
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\ObjDir\2018\EllipsePlugin\EllipsePlugin.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\ObjDir\2018\EllipsePlugin\EllipsePlugin.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\ObjDir\2018\EllipsePlugin\EllipsePlugin.dll
+D:\오금성\103.Tekla_C#\Examples\EllipsePlugin\ObjDir\2018\EllipsePlugin\EllipsePlugin.pdb

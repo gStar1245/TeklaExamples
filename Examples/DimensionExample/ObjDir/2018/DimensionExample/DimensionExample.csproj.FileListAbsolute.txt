@@ -1,0 +1,8 @@
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\DimensionExample\bin\Debug\DimensionExample.exe
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\DimensionExample\bin\Debug\DimensionExample.pdb
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\ObjDir\2018\DimensionExample\DimensionExample.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\ObjDir\2018\DimensionExample\DimensionExample.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\ObjDir\2018\DimensionExample\DimensionExample.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\ObjDir\2018\DimensionExample\DimensionExample.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\ObjDir\2018\DimensionExample\DimensionExample.exe
+D:\오금성\103.Tekla_C#\Examples\DimensionExample\ObjDir\2018\DimensionExample\DimensionExample.pdb

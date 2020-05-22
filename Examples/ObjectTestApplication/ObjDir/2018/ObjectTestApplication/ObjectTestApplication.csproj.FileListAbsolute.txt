@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjectTestApplication\bin\Debug\ObjectTestApplication.exe.config
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjectTestApplication\bin\Debug\ObjectTestApplication.exe
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjectTestApplication\bin\Debug\ObjectTestApplication.pdb
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.exe
+D:\오금성\103.Tekla_C#\Examples\ObjectTestApplication\ObjDir\2018\ObjectTestApplication\ObjectTestApplication.pdb

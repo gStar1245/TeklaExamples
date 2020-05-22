@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\BRepExample\BRepExample\bin\Debug\BRepExample.exe.config
+D:\오금성\103.Tekla_C#\Examples\BRepExample\BRepExample\bin\Debug\BRepExample.exe
+D:\오금성\103.Tekla_C#\Examples\BRepExample\BRepExample\bin\Debug\BRepExample.pdb
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.exe
+D:\오금성\103.Tekla_C#\Examples\BRepExample\ObjDir\2018\BRepExample\BRepExample.pdb

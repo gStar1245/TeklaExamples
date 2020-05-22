@@ -1,0 +1,11 @@
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\BentPlateBoxCreationExample\bin\Debug\BentPlateBoxCreationExample.exe.config
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\BentPlateBoxCreationExample\bin\Debug\BentPlateBoxCreationExample.exe
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\BentPlateBoxCreationExample\bin\Debug\BentPlateBoxCreationExample.pdb
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.exe
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.pdb
+D:\오금성\103.Tekla_C#\Examples\BentPlateBoxCreationExample\ObjDir\2018\BentPlateBoxCreationExample\BentPlateBoxCreationExample.csproj.CopyComplete

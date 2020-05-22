@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\BasicViews\BasicViews\bin\Debug\BasicViews.exe.config
+D:\오금성\103.Tekla_C#\Examples\BasicViews\BasicViews\bin\Debug\BasicViews.exe
+D:\오금성\103.Tekla_C#\Examples\BasicViews\BasicViews\bin\Debug\BasicViews.pdb
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.BasicViews.resources
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.exe
+D:\오금성\103.Tekla_C#\Examples\BasicViews\ObjDir\2018\BasicViews\BasicViews.pdb

@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\BentPlateCreationExample\bin\Debug\BentPlateCreationExample.exe.config
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\BentPlateCreationExample\bin\Debug\BentPlateCreationExample.exe
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\BentPlateCreationExample\bin\Debug\BentPlateCreationExample.pdb
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.exe
+D:\오금성\103.Tekla_C#\Examples\BentPlateCreationExample\ObjDir\2018\BentPlateCreationExample\BentPlateCreationExample.pdb

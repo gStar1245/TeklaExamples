@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\BeamApplication\bin\Debug\BeamApplication.exe.config
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\BeamApplication\bin\Debug\BeamApplication.exe
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\BeamApplication\bin\Debug\BeamApplication.pdb
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.exe
+D:\오금성\103.Tekla_C#\Examples\BeamApplication\ObjDir\2018\BeamApplication\BeamApplication.pdb

@@ -1,0 +1,11 @@
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\CNC_Exporter\bin\Debug\CNC_Exporter.exe.config
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\CNC_Exporter\bin\Debug\CNC_Exporter.exe
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\CNC_Exporter\bin\Debug\CNC_Exporter.pdb
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.exe
+D:\오금성\103.Tekla_C#\Examples\CNC_Exporter\ObjDir\2018\CNC_Exporter\CNC_Exporter.pdb

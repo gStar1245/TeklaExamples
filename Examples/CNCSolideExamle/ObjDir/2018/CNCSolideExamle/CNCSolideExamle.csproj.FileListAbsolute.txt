@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\CNCSolideExamle\bin\Debug\CNCSolideExamle.exe.config
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\CNCSolideExamle\bin\Debug\CNCSolideExamle.exe
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\CNCSolideExamle\bin\Debug\CNCSolideExamle.pdb
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.exe
+D:\오금성\103.Tekla_C#\Examples\CNCSolideExamle\ObjDir\2018\CNCSolideExamle\CNCSolideExamle.pdb

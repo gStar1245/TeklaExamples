@@ -1,0 +1,10 @@
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.csprojAssemblyReference.cache
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.Form1.resources
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.Properties.Resources.resources
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.csproj.GenerateResource.cache
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.csproj.CoreCompileInputs.cache
+D:\오금성\103.Tekla_C#\Examples\FilterExample\FilterExample\bin\Debug\FilterExample.exe.config
+D:\오금성\103.Tekla_C#\Examples\FilterExample\FilterExample\bin\Debug\FilterExample.exe
+D:\오금성\103.Tekla_C#\Examples\FilterExample\FilterExample\bin\Debug\FilterExample.pdb
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.exe
+D:\오금성\103.Tekla_C#\Examples\FilterExample\ObjDir\2018\FilterExample\FilterExample.pdb
